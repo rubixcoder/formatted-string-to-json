@@ -12,6 +12,12 @@ http://localhost:3000/parse/new_profile|siret87324sd1232|<Aamir><Hussain><Khan>|
 
 ## Display Video
 
+
+
+https://github.com/rubixcoder/formatted-string-to-json/assets/8695174/62d6df70-32e2-45cf-a0ed-408d8d0b4e70
+
+
+
 <table style="width:100%">
 	<tr>
 		<td>
